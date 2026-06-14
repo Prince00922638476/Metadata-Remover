@@ -1,0 +1,6 @@
+{
+  "name": "Metadata Remover",
+  "description": "A lightweight, pure 100% offline, forensic-level metadata stripping application to remove EXIF data locally without quality loss.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
